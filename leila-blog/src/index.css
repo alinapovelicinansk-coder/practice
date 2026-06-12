@@ -188,7 +188,6 @@ body {
   color: var(--color-pink);
 }
 
-/* Кнопка назад */
 .back-button {
   display: inline-block;
   background-color: var(--color-pink);
@@ -204,7 +203,6 @@ body {
   background-color: #e5508a;
 }
 
-/* Подвал */
 .footer {
   background-color: var(--color-gray);
   text-align: center;
@@ -212,7 +210,6 @@ body {
   margin-top: 60px;
 }
 
-/* Адаптивность для мобильных */
 @media (max-width: 768px) {
   .header-container {
     flex-direction: column;
